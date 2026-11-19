@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="840">
+  <g transform="translate(0,0)">
+    <text x="60" y="30" font-family="Arial" font-size="22" font-weight="bold">
+            Températures à la date : 2006-01-01</text>
+    <line x1="50" x2="860" y1="250" y2="250" stroke="#cccccc" stroke-dasharray="4"/>
+    <text x="10" y="255" font-family="Arial" font-size="13">10°
+    </text>
+    <line x1="50" x2="860" y1="150" y2="150" stroke="#cccccc" stroke-dasharray="4"/>
+    <text x="10" y="155" font-family="Arial" font-size="13">20°
+    </text>
+    <line x1="50" x2="860" y1="50" y2="50" stroke="#cccccc" stroke-dasharray="4"/>
+    <text x="10" y="55" font-family="Arial" font-size="13">30°
+    </text>
+    <line x1="50" y1="350" x2="860" y2="350" stroke="black" stroke-width="2"/>
+    <line x1="50" y1="350" x2="50" y2="50" stroke="black" stroke-width="2"/>
+    <polygon points="50,40 44,55 56,55" fill="black"/>
+    <text x="20" y="35" font-family="Arial" font-size="15">T°</text>
+    <rect x="70" y="130" width="40" height="220" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="220" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="130" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="90" y="122" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">22°
+            </text>
+    <text x="90" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Casa</text>
+    <rect x="170" y="150" width="40" height="200" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="200" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="150" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="190" y="142" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">20°
+            </text>
+    <text x="190" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Rabat</text>
+    <rect x="270" y="170" width="40" height="180" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="180" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="170" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="290" y="162" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">18°
+            </text>
+    <text x="290" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Fes</text>
+    <rect x="370" y="160" width="40" height="190" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="190" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="160" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="390" y="152" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">19°
+            </text>
+    <text x="390" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Oujda</text>
+    <rect x="470" y="100" width="40" height="250" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="250" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="100" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="490" y="92" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">25°
+            </text>
+    <text x="490" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Tanger</text>
+    <rect x="570" y="70" width="40" height="280" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="280" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="70" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="590" y="62" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">28°
+            </text>
+    <text x="590" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Marrakech</text>
+    <rect x="670" y="60" width="40" height="290" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="290" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="60" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="690" y="52" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">29°
+            </text>
+    <text x="690" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Ouarzazat</text>
+    <rect x="770" y="150" width="40" height="200" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="200" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="150" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="790" y="142" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">20°
+            </text>
+    <text x="790" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Agadir</text>
+  </g>
+  <g transform="translate(0,420)">
+    <text x="60" y="30" font-family="Arial" font-size="22" font-weight="bold">
+            Températures à la date : 2006-01-02</text>
+    <line x1="50" x2="860" y1="250" y2="250" stroke="#cccccc" stroke-dasharray="4"/>
+    <text x="10" y="255" font-family="Arial" font-size="13">10°
+    </text>
+    <line x1="50" x2="860" y1="150" y2="150" stroke="#cccccc" stroke-dasharray="4"/>
+    <text x="10" y="155" font-family="Arial" font-size="13">20°
+    </text>
+    <line x1="50" x2="860" y1="50" y2="50" stroke="#cccccc" stroke-dasharray="4"/>
+    <text x="10" y="55" font-family="Arial" font-size="13">30°
+    </text>
+    <line x1="50" y1="350" x2="860" y2="350" stroke="black" stroke-width="2"/>
+    <line x1="50" y1="350" x2="50" y2="50" stroke="black" stroke-width="2"/>
+    <polygon points="50,40 44,55 56,55" fill="black"/>
+    <text x="20" y="35" font-family="Arial" font-size="15">T°</text>
+    <rect x="70" y="140" width="40" height="210" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="210" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="140" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="90" y="132" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">21°
+            </text>
+    <text x="90" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Casa</text>
+    <rect x="170" y="120" width="40" height="230" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="230" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="120" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="190" y="112" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">23°
+            </text>
+    <text x="190" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Rabat</text>
+    <rect x="270" y="160" width="40" height="190" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="190" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="160" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="290" y="152" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">19°
+            </text>
+    <text x="290" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Fes</text>
+    <rect x="370" y="150" width="40" height="200" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="200" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="150" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="390" y="142" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">20°
+            </text>
+    <text x="390" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Oujda</text>
+    <rect x="470" y="120" width="40" height="230" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="230" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="120" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="490" y="112" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">23°
+            </text>
+    <text x="490" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Tanger</text>
+    <rect x="570" y="80" width="40" height="270" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="270" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="80" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="590" y="72" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">27°
+            </text>
+    <text x="590" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Marrakech</text>
+    <rect x="670" y="100" width="40" height="250" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="250" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="100" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="690" y="92" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">25°
+            </text>
+    <text x="690" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Ouarzazat</text>
+    <rect x="770" y="120" width="40" height="230" fill="yellow" stroke="blue" stroke-width="2">
+      <animate attributeName="height" from="0" to="230" dur="1.5s" fill="freeze"/>
+      <animate attributeName="y" from="350" to="120" dur="1.5s" fill="freeze"/>
+    </rect>
+    <text x="790" y="112" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">23°
+            </text>
+    <text x="790" y="375" text-anchor="middle" font-family="Arial" font-size="14" fill="blue">Agadir</text>
+  </g>
+</svg>

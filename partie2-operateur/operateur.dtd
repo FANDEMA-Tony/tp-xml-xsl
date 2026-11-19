@@ -1,0 +1,17 @@
+<!-- Contrat d'échange : opérateur télécom -> régulateur (ANRT) -->
+<!ELEMENT operateur (client+)>
+<!ELEMENT client (abonnement+)>
+<!ATTLIST client
+    code ID    #REQUIRED
+    nom  CDATA #REQUIRED>
+<!ELEMENT abonnement (facture+)>
+<!ATTLIST abonnement
+    numero NMTOKEN              #REQUIRED
+    type   (GSM|fixe|fibre)     "fixe"
+    date   CDATA                #REQUIRED>
+<!ELEMENT facture EMPTY>
+<!ATTLIST facture
+    numero  NMTOKEN     #REQUIRED
+    date    CDATA       #REQUIRED
+    montant CDATA       #REQUIRED
+    regle   (oui|non)   "non">

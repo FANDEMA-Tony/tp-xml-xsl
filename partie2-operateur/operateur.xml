@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE operateur SYSTEM "operateur.dtd">
+<operateur>
+    <client code="C1" nom="Mohammed">
+        <abonnement numero="111" type="GSM" date="2025-01-10">
+            <facture numero="F1" date="2025-02-01" montant="150" regle="oui"/>
+            <facture numero="F2" date="2025-03-01" montant="200" regle="oui"/>
+            <facture numero="F3" date="2025-04-01" montant="4300" regle="non"/>
+        </abonnement>
+        <abonnement numero="444" type="fibre" date="2025-02-15">
+            <facture numero="F4" date="2025-03-15" montant="300" regle="oui"/>
+            <facture numero="F5" date="2025-04-15" montant="800" regle="oui"/>
+        </abonnement>
+    </client>
+    <client code="C2" nom="Imen">
+        <abonnement numero="666" type="GSM" date="2025-03-20">
+            <facture numero="F6" date="2025-04-20" montant="120" regle="oui"/>
+            <facture numero="F7" date="2025-05-20" montant="180" regle="non"/>
+        </abonnement>
+        <abonnement numero="777" date="2025-05-02">
+            <facture numero="F8" date="2025-06-02" montant="250" regle="oui"/>
+        </abonnement>
+    </client>
+</operateur>

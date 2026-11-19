@@ -1,0 +1,14 @@
+<!-- Contrat d'échange : bibliothèque (étudiants et livres empruntés) -->
+<!ELEMENT biblio (etudiant+)>
+<!ELEMENT etudiant (livre+)>
+<!ATTLIST etudiant
+    code   ID    #REQUIRED
+    nom    CDATA #REQUIRED
+    prenom CDATA #REQUIRED
+    age    CDATA #REQUIRED>
+<!ELEMENT livre EMPTY>
+<!ATTLIST livre
+    id    ID                #REQUIRED
+    titre CDATA             #REQUIRED
+    date  CDATA             #REQUIRED
+    rendu (oui|non)         "non">
