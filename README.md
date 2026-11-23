@@ -11,8 +11,6 @@ Master 1 Big Data & Cloud Computing, cours de M. Youssfi.
 | `partie4-meteo/` | `meteo.dtd`, `meteo-dtd.xml`, `meteo.xsd`, `meteo-xsd.xml`, `meteo-html.xsl`, `meteo-svg.xsl`, `meteo.html`, `meteo.svg` (histogramme animé), `arbre-meteo-schema.*`, `arbre-meteo-instance.*` |
 | `transformer.py` | Valide et transforme tout, sans Oxygen |
 
-La **partie 3 (Relevé de comptes)** n'est pas incluse : son énoncé n'était pas dans les fichiers fournis.
-
 ## Correspondance avec l'énoncé de la partie 4 (Météo)
 
 1. Arbre XML : `arbre-meteo-schema` (structure) et `arbre-meteo-instance` (exemple).
